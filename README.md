@@ -28,4 +28,6 @@
 - **工具集** 决定 Agent 单轮的能力上限与成本下限。
 - **Harness** 是模型之外的那整套执行环境，`Agent = Model + Harness`。
 
-> 附：`Token/Token详解.xmind` 为 Token 一章的思维导图。
+> 附：每一章都有配套思维导图（`.xmind`，同目录）：
+> [Token](Token/Token详解.xmind) · [LLM](LLM大模型/LLM大模型思维导图.xmind) · [Agent](Agent智能体/Agent智能体思维导图.xmind) · [MCP](MCP插件/MCP插件思维导图.xmind) · [Skill](Skill技能/Skill技能思维导图.xmind) · [连接器](connector连接器/连接器思维导图.xmind) · [工具集](工具集/工具集思维导图.xmind)
+> （插件、平台对比暂无导图）
