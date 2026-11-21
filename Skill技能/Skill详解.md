@@ -2,7 +2,7 @@
 
 > 一句话定义：**Skill 是给 AI Agent 的"专业知识包"——用一个 Markdown 文件（SKILL.md）把某类任务的方法论、步骤、规范、脚本打包，模型在遇到匹配任务时按需加载，照着执行，从而把通用 Agent 变成领域专家。**
 
-系列导航：[Token的详解](Token的详解.md) → [大模型LLM详解](大模型LLM详解.md) → [AI-Agent详解](AI-Agent详解.md) → [MCP协议详解](MCP协议详解.md) → [插件详解](插件详解.md) / **Skill** / [连接器详解](连接器详解.md) / [工具集详解](工具集详解.md) / [AI平台对比](AI平台对比-Codex-QoderCN-DeepSeekHarness.md)
+系列导航：[Token的详解](../Token/Token的详解.md) → [大模型LLM详解](../LLM大模型/大模型LLM详解.md) → [AI-Agent详解](../Agent智能体/AI-Agent详解.md) → [MCP协议详解](../MCP插件/MCP协议详解.md) → [插件详解](../MCP插件/插件详解.md) / **Skill** / [连接器详解](../connector连接器/连接器详解.md) / [工具集详解](../工具集/工具集详解.md) / [AI平台对比](../AI平台/AI平台对比-Codex-QoderCN-DeepSeekHarness.md)
 
 ---
 
