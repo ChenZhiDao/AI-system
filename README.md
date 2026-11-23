@@ -35,5 +35,5 @@
 - **Harness** 是模型之外的那整套执行环境，`Agent = Model + Harness`。
 
 > 附：每一章都有配套思维导图（`.xmind`，同目录）：
-> [Token](Token/Token详解.xmind) · [LLM](LLM大模型/LLM大模型思维导图.xmind) · [Prompt](Prompt提示词/Prompt提示词思维导图.xmind) · [Agent](Agent智能体/Agent智能体思维导图.xmind) · [MCP](MCP插件/MCP插件思维导图.xmind) · [Skill](Skill技能/Skill技能思维导图.xmind) · [连接器](connector连接器/连接器思维导图.xmind) · [工具集](工具集/工具集思维导图.xmind)
-> （NLP、用户输入、插件、平台对比暂无导图）
+> [Token](Token/Token详解.xmind) · [LLM](LLM大模型/LLM大模型思维导图.xmind) · [Prompt](Prompt提示词/Prompt提示词思维导图.xmind) · [Agent](Agent智能体/Agent智能体思维导图.xmind) · [MCP](MCP插件/MCP插件思维导图.xmind) · [插件](MCP插件/插件思维导图.xmind) · [Skill](Skill技能/Skill技能思维导图.xmind) · [连接器](connector连接器/连接器思维导图.xmind) · [工具集](工具集/工具集思维导图.xmind)
+> （NLP、用户输入、平台对比暂无导图）
