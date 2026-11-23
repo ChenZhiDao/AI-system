@@ -1,3 +1,12 @@
+# 自我总结:
+
+1. MCP就是AI应用与外部工具或者数据的连接协议，统一对接标准格式。
+2. Agent 的能力上限取决于工具生态，MCP 是这个生态的"接口标准"。
+3. MCP包含Host宿主（AI应用）负责发起调用、Client客户端（Host内的协议连接器）负责协商能力与拉取Tools工具和Resources资源与Prompts提示词模版进行注入模型上下文、Server服务器负责根据所需的Tools工具和Resources资源与Prompts提示词模版执行,并将结果通知Client客户端。
+4. Mcp连接的服务器具有的Tools工具是模型知道调用。而Resource资源Prompts提示词是需要手动人为的进行控制调用。
+5. Mcp协议中模型负责文本产出。Server服务器负责执行。Horst宿主应用负责调度。
+6. Mcp用来连接并拓展支持外部的功能，API才是真正的功能，A2A用来做Agent之间的水平交互，Agent SDK用来做Agent环境的配置以及工具集合。
+
 # MCP（Model Context Protocol）详解
 
 > 一句话定义：**MCP（Model Context Protocol，模型上下文协议）是一个开放标准，规定了"AI 应用如何发现、连接和调用外部工具与数据源"——相当于 AI 世界的 USB 接口：工具做一次，所有支持 MCP 的应用都能即插即用。**
